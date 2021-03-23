@@ -1,0 +1,16 @@
+#main {
+	background-image: url(../media/background.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+}
+
+nav {
+	font-family: 'Arial', sans-serif;
+	color: red;
+}
+
+h1 {
+	font-family: 'Arial', sans-serif;
+	color: purple;
+	text-align: center;
+}
